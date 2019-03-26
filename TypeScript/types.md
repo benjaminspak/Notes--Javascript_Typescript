@@ -5,7 +5,7 @@
 
 ##### Defining variable types.
 
-```TypeScript
+```TS
 let my_string: string;
 let my_num: number;
 let my_bool: boolean;
@@ -19,7 +19,7 @@ str_arr = ["Hello", "World"];
 
 ##### Tuple Useage
 
-```TypeScript
+```TS
 let str_num_tuple: [string, number];
 str_num_tuple = ["Hello", 4, 3, 4];
 ```
